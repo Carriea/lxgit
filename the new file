@@ -4,6 +4,8 @@ Person{
     
         private userName;
         private age;
+        
+        system.out.println("使用GitHub 编辑的文本")
     
     }
 
