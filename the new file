@@ -1,0 +1,10 @@
+Person{
+
+    public static void main(String[] arg){
+    
+        private userName;
+        private age;
+    
+    }
+
+}
